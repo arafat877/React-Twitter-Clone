@@ -1,0 +1,17 @@
+.post {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid var(--twitter-background);
+  padding-bottom: 10px;
+}
+
+.postBody > img {
+  border-radius: 20px;
+  width: 100%;
+}
+
+.postFooter{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
